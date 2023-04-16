@@ -10,8 +10,8 @@
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#2c0051",
-            "#2c0051"
+            "#6f378b",
+            "#6f378b"
         ],
         "HEADER_SECONDARY": [
             "#4e0090",
@@ -26,16 +26,16 @@
             "#C8B68E"
         ],
         "INTERACTIVE_NORMAL": [
-            "#d8c28f",
-            "#d8c28f"
+            "#9e55c2",
+            "#9e55c2"
         ],
         "INTERACTIVE_HOVER": [
-            "#d8c28f",
-            "#d8c28f"
+            "#9e55c2",
+            "#9e55c2"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#d8c28f",
-            "#d8c28f"
+            "#9e55c2",
+            "#9e55c2"
         ],
         "INTERACTIVE_MUTED": [
             "#C8B68E",

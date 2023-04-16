@@ -1,21 +1,21 @@
 {
-    "name": "Purple Kitty",
-    "description": "A theme made by Vodka Martini",
+    "name": "Niko and the World MaTheme",
+    "description": "A OneShot theme by Caffe",
     "authors": [
         {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
+            "name": "Caffe",
+            "id": "979842729062305793"
         }
     ],
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#edd49b",
-            "#edd49b"
+            "#2c0051",
+            "#2c0051"
         ],
         "HEADER_SECONDARY": [
-            "#d8c28f",
-            "#d8c28f"
+            "#4e0090",
+            "#4e0090"
         ],
         "TEXT_NORMAL": [
             "#c8c8c8",

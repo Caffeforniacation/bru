@@ -18,8 +18,8 @@
             "#4e0090"
         ],
         "TEXT_NORMAL": [
-            "#c8c8c8",
-            "#c8c8c8"
+            "#8949A8",
+            "#8949A8"
         ],
         "TEXT_MUTED": [
             "#C8B68E",
@@ -38,8 +38,8 @@
             "#7C4298"
         ],
         "INTERACTIVE_MUTED": [
-            "#C8B68E",
-            "#c9bbc8"
+            "#8949A8",
+            "#8949A8"
         ],
         "BACKGROUND_PRIMARY": [
             "#512964",
@@ -58,8 +58,8 @@
             "#5d737e"
         ],
         "BACKGROUND_ACCENT": [
-            "#69607F",
-            "#69607F"
+            "#6d3a81",
+            "#6d3a81"
         ],
         "BACKGROUND_FLOATING": [
             "#512964",

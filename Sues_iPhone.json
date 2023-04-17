@@ -7,119 +7,46 @@
             "id": "979842729062305793"
         }
     ],
-    "semanticColors": {
-            
-        "HEADER_PRIMARY": [
-            "#3A86DD"
-        ],
-        "HEADER_SECONDARY": [
-            "#3A86DD"
-        ],
-        "TEXT_NORMAL": [
-            "#C1DEFF"
-        ],
-        "TEXT_MUTED": [
-            "#8294A8"
-        ],
-        "TEXT_LINK": [
-            "#459DFF"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#A1CEFF"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#69B1FF"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#526171"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#1F1F1F"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#232323"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#232323"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#1F1F1F"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#3A86DD"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#232323"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#232323"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#232323"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#232323"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#434343"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#242424"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#66AAF6"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#37577B"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#2E2E2E"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#A4A4A4"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#7992AD"
-        ],
-        "TEXT_DANGER": [
-            "#FC0E61"
-        ],
-        "KEYBOARD": [
-            "#232323"
-        ],
-        "CHANNEL_ICON": [
-            "#3A86DD"
-        ],
-        "CHAT_BACKGROUND": [
-            "#1F1F1F"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#3A86DD",
-        "PRIMARY_400": "#3A86DD",
-        "PRIMARY_500": "#235DA0",
-        "PRIMARY_600": "#1F1F1F",
-        "PRIMARY_630": "#232323",
-        "PRIMARY_660": "#232323",
-        "PRIMARY_700": "#404040",
-        "PRIMARY_800": "#212121",
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#23283D"],
+    "BACKGROUND_SECONDARY": ["#1E2233"],
+    "BACKGROUND_SECONDARY_ALT": ["#191f2E"],
+    "BACKGROUND_TERTIARY": ["#101320"],
+    "BACKGROUND_ACCENT": ["#6E85D3"],
+    "BACKGROUND_FLOATING": ["#1E2233"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#23283D"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1E2233"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#1A1E2D"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#6E85D33D"],
+    "BACKGROUND_MODIFIER_ACCENT": ["1E2233"],
+    "BACKGROUND_MENTIONED": ["#C662621F"],
+    "BACKGROUND_MENTIONED_HOVER": ["#C6626226"],
 
-        "BRAND_260": "#3A86DD",
-        "BRAND_360": "#3A86DD",
-        "BRAND_500": "#3A86DD",
-        "BRAND_560": "#9AC9FF",
-        "WHITE_500": "#9AC9FF",
-        "YELLOW_300": "#1875E1",
-        "GREEN_360": "#123967",
-        "RED_400": "#FC0E61"
+    "SCROLLBAR_THIN_THUMB": ["#1E2233"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#1E2233"],
+    "SCROLLBAR_AUTO_TRACK": ["#1E2233"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#23283D"],
+    "CHAT_BACKGROUND": ["#23283D"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#23283D",
+    "PRIMARY_630": "#1E2233",
+    "PRIMARY_660": "#101320",
+    "PRIMARY_700": "#23283D",
+    "PRIMARY_800": "#101320",
+    "BRAND_260": "#6E85D3",
+    "BRAND_360": "#6E85D3",
+    "BRAND_500": "#6E85D3",
+    "BRAND_560": "#5365a0",
+    "YELLOW_300": "#C66262"
+  },
+  "spec": 2
 }
 
     "background": {
     "blur": 0.8,
     "url": "https://media.discordapp.net/attachments/1008132599308369961/1097295574862155806/Uxvij63P.png",
     "alpha": 0.9
-}
+},
+  "spec": 2

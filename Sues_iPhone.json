@@ -116,6 +116,10 @@
         "YELLOW_300": "#1875E1",
         "GREEN_360": "#123967",
         "RED_400": "#FC0E61"
+    "background": {
+    "blur": 0.8,
+    "url": "https://media.discordapp.net/attachments/1008132599308369961/1097295574862155806/Uxvij63P.png",
+    "alpha": 0.9
     },
-    "spec": 2
-},
+    "color": "#512964"
+}

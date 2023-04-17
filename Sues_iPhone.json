@@ -40,10 +40,5 @@
     "BRAND_500": "#6E85D3",
     "BRAND_560": "#5365a0",
     "YELLOW_300": "#C66262"
-  },
-    "background": {
-    "blur": 0.8,
-    "url": "https://media.discordapp.net/attachments/1008132599308369961/1097295574862155806/Uxvij63P.png",
-    "alpha": 0.9
 },
   "spec": 2
